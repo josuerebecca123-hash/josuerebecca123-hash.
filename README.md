@@ -11,9 +11,6 @@ Meu nome é **Rebecca Braga** e estou começando minha jornada na programação.
 ![HTML5](https://img.shields.io/badge/html5-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-### 📈 Minhas contribuições:
-(Aqui você pode adicionar o gráfico de contribuições customizado depois!)
-
 ---
 ![Gatinho fofo](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExODIxYmRxMmdxa2N3cmpvZDVyd3R0bG9reXhuMHFwdzd6ZmU0dms4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kZqbBT64ECtjy/giphy.webp)
 
